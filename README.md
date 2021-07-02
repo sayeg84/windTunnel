@@ -1,0 +1,3 @@
+# Túnel de viento mediante elementos finitos
+
+El archivo `finiteElements.jl` contiene todas las funciones y definiciones necesarias para hacer la simulación. Para correr una simulación, debe ejecutarse el script `run.jl`. Dicho archivo puede tomar argumentos de la línea de comando para cambiar la simulación realizada. Para más información al respecto, ejecutar el comando `julia run.jl --help` sobre como correr con opciones la simulación.
